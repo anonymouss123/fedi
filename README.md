@@ -1,4 +1,4 @@
-# FeDi: Self-supervised Learning via Feature Disentanglement
+# FeDi: Feature disentanglement for self-supervised learning
 This is a PyTorch implementation of FeDi. 
 
 ## Introduction
